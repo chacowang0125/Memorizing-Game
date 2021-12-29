@@ -1,6 +1,6 @@
 # Memorizing Game
-A simple web application for card memorizing Game.
-project link: https://chacowang0125.github.io/memorizing-game/
+A simple web application for card memorizing Game.<br>
+project link: https://chacowang0125.github.io/memorizing-game/<br>
 ![screenshot](https://i.ibb.co/tqDRp7g/2021-12-29-6-06-35.png)
 
 ## How to use
